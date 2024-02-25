@@ -8,13 +8,19 @@ I guess that's the beauty of it; that it could be literally anything.
 
 I've been lucky enough to live in many different countries: India, UAE, UK, and Canada, the latter of which has been my home-base for the last 7 years.
 
+Currently I do data science stuff at a big bank; the reality is I do 90% data cleaning and 10% data science at a big bank 🙃
+
 My passions include playing the guitar, going on walks and taking pretty pictures, and increasing the variety of music I listen to.
 
 ### Interests & Ideas 💼
-- [[watches]]
 - [[guitar]]
+- [[toronto is pretty]]
+- [[watches]]
 - [[mentorship]]
-- machine learning (particularly NLP)
-- finance
-- [[companies I'd like to work at]]
-- custom keyboards
+- [[machine learning]] (particularly NLP)
+- [[random scribbles]]
+
+
+### Check out:
+- [[what I'm learning]]
+- [[what I'm listening to]]
