@@ -14,14 +14,14 @@ Currently I do data science stuff at a big bank; the reality is I do 90% data cl
 My passions include playing the guitar, going on walks and taking pretty pictures, and increasing the variety of music I listen to.
 
 ### Interests & Ideas 💭
+- [[machine learning]] (particularly NLP)
 - [[guitar]]
 - [[toronto is pretty]]
 - [[watches]]
 - [[mentorship]]
-- [[machine learning]] (particularly NLP)
 - [[random scribbles]]
 
 
 ### Check out:
-- [[what I'm learning]]
+- [[what i'm learning]]
 - [[what I'm listening to]]
