@@ -3,6 +3,7 @@ title: Welcome, I'm Shivam 👋🏾
 tags:
 ---
 
+### How are you?
 Honestly, I'm not entirely sure what I'm going to put here.
 I guess that's the beauty of it; that it could be literally anything.
 
@@ -12,7 +13,7 @@ Currently I do data science stuff at a big bank; the reality is I do 90% data cl
 
 My passions include playing the guitar, going on walks and taking pretty pictures, and increasing the variety of music I listen to.
 
-### Interests & Ideas 💼
+### Interests & Ideas 💭
 - [[guitar]]
 - [[toronto is pretty]]
 - [[watches]]
