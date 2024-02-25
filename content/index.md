@@ -18,9 +18,9 @@ My passions include playing the guitar, going on walks and taking pretty picture
 - [[guitar]]
 - [[toronto is pretty]]
 - [[watches]]
+- [[poems]]
 - [[mentorship]]
 - [[random scribbles]]
-
 
 ### Check out:
 - [[what i'm learning]]
