@@ -15,14 +15,14 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "sgarg1999.github.io/sgarg.top/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
-      cdnCaching: true,
+      cdnCaching: false,
       typography: {
         header: "Helvetica Neue",
-        body: "Kode Mono",
+        body: "Merriweather",
         code: "IBM Plex Mono",
       },
       colors: {
