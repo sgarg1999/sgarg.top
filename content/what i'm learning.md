@@ -22,3 +22,10 @@ tags:
 	- [BroCode](https://www.youtube.com/@BroCodez) is the true goat
 	- Just for fun, also building front-ends seems cool
 	- Damn there is a lot to learn, and like 400000 Javascript frameworks
+### Data Structures and Algorithms (ffs):
+- Check out my [[content/interview prep|Interview Prep]] folder
+- Topics:
+	- data structures and algorithsm (duh)
+	- time complexity
+	- common algorithms
+	- how to wipe tears away without chaffing skin
