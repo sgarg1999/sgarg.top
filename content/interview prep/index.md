@@ -26,4 +26,4 @@ Goals:
 - Crush some Medium LeetCode
 - Crush some SQL Hard Leetcode
 
-![[Pasted image 20240226174716.png]]
+![[supportive_doggo.png]]
