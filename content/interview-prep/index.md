@@ -3,7 +3,7 @@
 ### before I start crushing problems...
 
 - [[time and space complexity]]
-- [[big O notation]] (cheerio lookin ass)
+- [[big O notation]]
 - [[data structures]]
 	- arrays
 	- strings (wtf i know this)
