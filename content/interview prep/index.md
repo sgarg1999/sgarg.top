@@ -8,7 +8,7 @@ tags:
 ### before I start crushing problems...
 
 Topics to learn:
-- [[time and space complexity]]
+- [[time complexity]]
 - [[big O notation]]
 - [[data structures]]
 	- arrays
