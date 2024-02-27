@@ -58,7 +58,7 @@ But who really wants to sound like a Math major right?
 
 Why use the words constant, linear, quadratic, when you can sound even more pretentious and wise?
 
-now enter: ==big O notation==
+Now, enter: ==big O notation==
 
 # What is big O notation?
 Simply a way of denoting the complexity of an algorithm
@@ -73,6 +73,7 @@ Simply a way of denoting the complexity of an algorithm
 Steps to find time complexity:
 1. find the fastest growing term
 2. take out the coefficient
+
 
 e.g. 1. *given*
 
@@ -96,7 +97,8 @@ $$
 > side note: this looks like a simple cheat for calculus, I'm sure there's some calculus here though
 
 
-e.g. 1. *given*
+
+e.g. 2. *given*
 $$
 T = cn^2 + dn + e
 $$
