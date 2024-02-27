@@ -9,8 +9,8 @@ tags:
 
 Topics to learn:
 - [[time complexity and big O notation]]
-- [[data structures]]
-	- arrays
+- [[interview prep/data structures/ | Data Structures]]
+	- [[arrays]]
 	- strings (wtf i know this)
 	- binary tree (lmfao nvm)
 	- linked list
