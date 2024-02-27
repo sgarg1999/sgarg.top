@@ -1,11 +1,3 @@
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-includeLinks: true # Make headings clickable
-debugInConsole: false # Print debug info in Obsidian console
-```
 # Sources
 - [CS DOJO | Introduction to Big O Notation and Time Complexity )](https://www.youtube.com/watch?v=D6xkbGLQesk)
 
@@ -36,7 +28,7 @@ e.g.:
 
 So, instead, we ask: **how does the runtime of this function grow?**
 
-enter: ===time complexity===
+enter: ==time complexity==
 
 For our `coolFunction`, we would say that the time complexity is **linear**.
 
@@ -66,15 +58,15 @@ But who really wants to sound like a Math major right?
 
 Why use the words constant, linear, quadratic, when you can sound even more pretentious and wise?
 
-now enter: ===big O notation===
+now enter: ==big O notation==
 
 # What is big O notation?
 Simply a way of denoting the complexity of an algorithm
 ```
 {
-	constant_time_complexity:      O(n),
-	linear_time_complexity:        O(1),
-	quadratic_time_complexity:     O(n^2)
+	'constant_time_complexity':      O(n),
+	'linear_time_complexity':        O(1),
+	'quadratic_time_complexity':     O(n^2)
 }
 ```
 
@@ -82,7 +74,7 @@ Steps to find time complexity:
 1. find the fastest growing term
 2. take out the coefficient
 
-e.g. *Given*
+e.g. 1. *given*
 
 $$
 T = an+b
@@ -97,5 +89,26 @@ n
 $$
 and therefore, we are in **linear** time // $O(n)$.
 
-side note: this looks like a simple cheat for calculus, I'm sure theres some calc here though
+$$
+T = an+b = O(n)
+$$
 
+> side note: this looks like a simple cheat for calculus, I'm sure there's some calculus here though
+
+
+e.g. 1. *given*
+$$
+T = cn^2 + dn + e
+$$
+
+the fastest growing term would be:
+$$
+c \cdot n^2
+$$
+removing the coefficient, we get:
+$$
+n^2
+$$
+$$
+\therefore T = cn^2 + dn + e = O(n^2) 
+$$
